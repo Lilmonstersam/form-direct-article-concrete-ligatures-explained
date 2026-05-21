@@ -50,7 +50,7 @@ The right ligature is normally set by the engineer, not chosen by eye on site. T
 
 The "R" generally refers to round bar, while "N" refers to deformed reinforcing bar. The number that follows gives the nominal bar diameter in millimetres. For example, N12 is a 12mm deformed reinforcing bar.
 
-Form Direct's stock bar and starter bar pages are useful references for the bar types behind common callouts. Final ligature shape, bend dimensions and spacing should still come from the engineering drawings. If a project needs custom cutting, bending or bundled steel, the [services](https://formdirect.com.au/services/) page outlines Form Direct's estimating, scheduling, production and delivery support.
+Form Direct's stock bar and starter bar pages are useful references for the bar types behind common callouts. Final ligature shape, bend dimensions and spacing should still come from the engineering drawings. We are fully capable of custom cutting, bending, bundling and tagging your steel, backed by our in-house estimating and scheduling services.
 
 ## Ligatures, trench mesh and reo cages
 
@@ -68,14 +68,6 @@ For site teams, the safest approach is to read the reinforcement schedule carefu
 
 This is where a supplier with estimating and scheduling support can be useful. Form Direct's [construction estimating and scheduling services](https://formdirect.com.au/services/) are designed to help teams plan quantity take-offs, steel scheduling, labelling, bundling and delivery so reinforcement is easier to place correctly on site.
 
-## Example: ligatures in a commercial footing cage
-
-Consider a commercial footing for a building with heavier column loads. The engineer may specify main N bars running lengthwise through the footing, with R10 ligs spaced at set centres to keep the cage rigid. The ligatures wrap around the main bars, maintaining the correct distance between them and helping the cage hold its shape while it is lifted into the formwork.
-
-If the cage arrives bundled, tagged and scheduled to match the drawings, the steel fixers can work faster and with fewer interruptions. If the ligatures are wrong, missing or spaced incorrectly, the issue can delay inspection and push back the pour.
-
-Form Direct's [projects page](https://formdirect.com.au/projects/) shows the types of residential, commercial, concreter and civil projects the team supports, with project filters for reinforcing and accessories, formwork, site setup and other supplied product groups. The homepage also highlights projects such as Kepnock McDonalds, Bundaberg Harley Davidson and Kepnock Shopping Centre, which reflects the kind of project environment where accurate reinforcing supply and delivery timing matter.
-
 ## Choosing steel ligatures and reinforcing products
 
 When ordering steel ligatures or related reinforcing products, start with the drawings. Then check the practical supply details that affect site productivity.
@@ -88,7 +80,7 @@ When ordering steel ligatures or related reinforcing products, start with the dr
 | Related reinforcement | Mesh, trench mesh, stock bars, starter bars and accessories often need to arrive together. |
 | Delivery and labelling | Bundled, tagged steel helps the site team place the right items in the right area. |
 
-Form Direct supplies reinforcing steel products for residential, commercial, industrial and civil projects through its [Reinforcing & Accessories](https://formdirect.com.au/reinforcing-accessories/) range. For custom production, the services page notes that Form Direct can support cutting, bending, bundling, tagging and site delivery through its specialist production facilities.
+We supply reinforcing steel products for residential, commercial, industrial and civil projects through our [Reinforcing & Accessories](https://formdirect.com.au/reinforcing-accessories/) range. For custom production, we support cutting, bending, bundling, tagging and site delivery through our specialist production facilities.
 
 ## FAQs about concrete ligatures
 
